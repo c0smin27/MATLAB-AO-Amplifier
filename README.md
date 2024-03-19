@@ -6,3 +6,5 @@ Depending on the values entered for some parameters, the amplification is calcul
 
 📃 [Documentation](https://github.com/c0smin27/MATLAB-AO-Amplifier/blob/main/Documentatie%20AO%20Inversor_Neinversor%20-%20Melinte%20Cosmin.pdf)<br>
 💾 [Project](https://github.com/c0smin27/MATLAB-AO-Amplifier/blob/main/start_proiect.m)
+
+![]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/c0smin27/MATLAB-AO-Amplifier/blob/main/readme.png)https://github.com/c0smin27/MATLAB-AO-Amplifier/blob/main/readme.png)
