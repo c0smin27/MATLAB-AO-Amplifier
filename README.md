@@ -1,10 +1,6 @@
-# MATLAB AO Amplifier
+# MATLAB – Operational Amplifier Simulation
 
-## Implementation of an application that simulates an inverting or non-inverting AO amplifier
-
-Depending on the values entered for some parameters, the amplification is calculated and the input voltage, output voltage and CSTV are plotted using the selected signal type.
-
-📃 [Documentation]() <br>
-💾 [Project]() <br>
+This project implements a MATLAB application that simulates an inverting or non-inverting operational amplifier (Op-Amp) configuration. <br>
+Based on the user-defined parameter values, the amplification factor is calculated. The input voltage, output voltage, and CSTV are plotted according to the selected signal type. <br>
 
 ![](https://raw.githubusercontent.com/c0smin27/MATLAB-AO-Amplifier/main/README.png)
